@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234397031759",
+    "project_id": "ngolehid-e80c5",
+    "storage_bucket": "ngolehid-e80c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234397031759:android:458d4817f2e8b5a27f393a",
+        "android_client_info": {
+          "package_name": "com.example.ngolehid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234397031759-pjcj5crrsdmkh5rouchnj81o8ufv5e25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XUR-vc1m2jff6rtU7qJ7EpdHIMeWbpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234397031759-pjcj5crrsdmkh5rouchnj81o8ufv5e25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
